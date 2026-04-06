@@ -1,4 +1,4 @@
-## Neeraj | Laravel Experts & Web Agency — Himachal Pradesh, India
+## Neeraj Sharma | Laravel Expert — Himachal Pradesh, India
 
 We build and rescue Laravel applications for SaaS founders and growing businesses.
 
